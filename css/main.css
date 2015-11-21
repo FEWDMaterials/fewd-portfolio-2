@@ -1,0 +1,44 @@
+body 
+	{background: #fff2e5;
+	 margin: 15px;
+	 padding: 120px;
+	 font-family: Georgia, serif;
+	 line-height: 1.5;
+	 font-size: 18px;}
+
+
+ h1 {text-transform: uppercase;
+    font-weight: bold;
+     text-align: center;
+    color: #030609;
+    margin-top: 0;
+	display: block;
+	font-size: 2em;}
+
+
+h2 {font-size: 22px;
+    color: #030609;
+    text-transform: uppercase;
+    letter-spacing: 1px;
+    font-family: "Arial", sans-serif;
+    margin-top: 42px;}
+
+div {margin-top: 80px;
+     font-size: 19px;
+ 	 font-family: "Times New Roman", Times, serif;}
+
+
+#meat {border-top: solid 1px;
+       margin-top: 80px;}
+
+#socialmedia {border-top: solid 1px;
+			  margin-top: 115px;
+			  margin-bottom: 50px;}
+
+
+
+#avatar {border-radius: 50%;
+		 width: 355px;
+		 height: 250px;
+		 /*display: inline-block;}*/
+		 float: right;}
